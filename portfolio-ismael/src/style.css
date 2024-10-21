@@ -1,0 +1,14 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    font-family: 'Afacad Flux', sans-serif;
+}
+
+/* botones header */
+nav a:hover 
+{
+    text-decoration: underline;
+    color: rgb(53, 143, 254);
+}

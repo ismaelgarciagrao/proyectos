@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="../output.css">
+    <title>Portfolio Ismael</title>
+</head>
+<body class="bg-[#101010] flex flex-col justify-center text-gray-200">
+    <!-- Header -->
+    <header class="flex justify-around items-center py-3">
+        <!-- Logo SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="-1 -1 10 10" width="200" height="50" stroke="rgb( 96, 165, 250 )">
+            <title>Logo Ismael</title>
+            <path d="M 0 0 L 10 0 M 5 0 L 5 8 M 0 8 L 10 8">
+        </svg>
+
+        <!-- Menú navegación -->
+        <nav class="flex flex-row gap-10">
+            <a href="#">Principal</a>
+            <a href="#SobreMi">Sobre mí</a>
+            <a href="#Experiencia">Experiencia</a>
+            <a href="#Contacto">Contacto</a>
+        </nav>
+    </header>
+    <!-- Main -->
+    <main id="#" class="py-36 px-36 bg-[#1a1a20]">
+        <!-- Sección Principal -->
+        <section class="w-full lg:w-{740px} mx-auto">
+
+            <h1 class="text-white text-6xl font-bold flex flex-row justify-center">
+                Ismael García
+            </h1>
+    
+            <p>
+                <strong class="text-blue-400">Desarrollador Web Junior</strong> de Valencia, España.
+                En formación y apasionado por el desarrollo de aplicaciones web.
+                Actualmente en búsqueda de adquirir experiencia mientras aporto
+                mis conocimientos sobre teconologías como: HTML, CSS, JS, PHP.
+            </p>
+
+            <button class="py-3">
+                <a href="./cv/cv_Ismael.pdf" download="CV_IsmaelGarcia.pdf"
+                   class="bg-blue-600 rounded-xl p-1 hover:bg-blue-800"
+                >
+                    Descargar CV
+                </a>
+            </button>
+
+        </section>
+        <!-- * Sección Sobre mí -->
+        <section class="w-full mx-auto flex flex-row py-36">
+            <!-- Contenedor Sobre Mí -->
+            <div class="flex flex-col">
+                <h1 id="SobreMi" class="text-4xl text-white font-bold border-b-2">Sobre mí</h1>
+
+                <div class="flex flex-row">
+                    <!-- Contenedor Imagen -->
+                    <div class="p-10">
+                        <img class="rounded-xl w-96 h-full"
+                            src="./img/foto_cv.png" 
+                            alt="Foto de Ismael"
+                        />
+                    </div>
+
+                    <!-- Artículo Trayectoria Académica -->
+                    <article class="p-6">
+                        <h2 class="text-2xl font-bold">Trayectoria académica:</h2>
+                        <p><strong class="text-blue-400">- CFGM Sistemas Microinformáticos y Redes:</strong> IES Mestre Ramón Esteve ( 2021 - 2023 )</p>
+                        <p><strong class="text-blue-400">- CFGS Desarrollo Aplicaciones Web:</strong> IES Mestre Ramón Esteve ( 2023 - Actualmente )</p>
+                    </article>
+                    
+                    <!-- Artículo Interés tecnológico -->
+                    <article class="p-6">
+                        <h2 class="text-2xl font-bold">Interés tecnológico:</h2>
+                        <p>
+                            Desde pequeño he mostrado <strong class="text-blue-400">interés</strong> en la tecnología y en 
+                            <strong class="text-blue-400">cómo funciona</strong>. En el entorno familiar
+                            siempre he sido el "manitas" que tocaba o intentaba arreglar cualquier aparato
+                            tecnológico. A medida que he ido creciendo, este <strong class="text-blue-400">interés</strong> 
+                            lo ha hecho conmigo, y fue dirigiéndose hacia un campo más específico: 
+                            el <strong class="text-blue-400">desarrollo de aplicaciones web</strong>.
+                        </p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- * Sección Experiencia -->
+        <section class="w-full mx-auto flex flex-row">
+            <h2 class="text-4xl text-white font-bold border-b-2">Experiencia</h2>
+        </section>
+    </main>
+</body>
+</html>
