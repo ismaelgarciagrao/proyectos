@@ -1,0 +1,59 @@
+# INICIO
+Desarrollador Web Junior de Valencia, España 🇪🇸. En formación y apasionado por el desarrollo de aplicaciones web. Actualmente en búsqueda de oportunidades laborales donde contribuir con mis conocimientos y continuar aprendiendo.
+
+Redes sociales: GitHub, LinkedIn.
+
+# SOBRE MÍ
+## Conocimientos
+- Lenguajes:
+	- HTML
+	- CSS
+	- JavaScript
+	- Java
+	- PHP
+	- SQL
+- Frameworks:
+	- Vue
+	- Laravel
+	- TailwindCSS
+- Herramientas:
+	- Docker
+	- Git y GitHub
+	- Jira
+- Metodología ágil:
+	- SCRUM
+
+## Trayectoria académica
+- CFGS Desarrollo Aplicaciones Web: IES Mestre Ramón Esteve ( 2023 - Actualmente )
+- CFGM Sistemas Microinformáticos y Redes: IES Mestre Ramón Esteve ( 2021 - 2023 )
+
+## Interés tecnológico
+Desde pequeño he mostrado interés en la tecnología y en cómo funciona. En el entorno familiar siempre he sido el "manitas" que tocaba o intentaba arreglar cualquier dispositivo. A medida que he ido creciendo, este interés lo ha hecho conmigo, dirigiéndose hacia el desarrollo de aplicaciones.
+
+# Experiencia
+AVF Smart Control | FP Dual 
+Junio 2024 - Julio 2024
+- Desarrollo y mantenimiento de páginas web usando PHP, mejorando la funcionalidad y experiencia del usuario.
+- Generación de informes personalizados con TCPDF (PHP), facilitando la gestión y visualización de datos.
+- Administración de BBDD para asegurar la integridad y disponibilidad de la información.
+
+Ayto. Montserrat | Prácticas
+Marzo 2023 - Junio 2023
+- Desarrollo y mantenimiento de páginas web con WordPress, optimizando la accesibilidad.
+- Montaje y mantenimiento de equipos, asegurando un correcto funcionamiento y aumentando su vida útil.
+- Administración y configuración de la red para mejorar la conectividad.
+
+# Proyectos
+En proceso...
+
+# Contacto
+correo: ismaelgarciagrao@gmail.com
+
+------------------------------------------------------ COLORES ------------------------------------------------------
+
+Fondo: #121212
+Texto: #D3D3D3
+Palabras destacadas: #64B5F6
+Botones: #42A5F5
+Botones (hover): #90CAF9
+Detalles: #BBDEFB

@@ -7,8 +7,16 @@ body {
 }
 
 /* botones header */
-nav a:hover 
-{
-    text-decoration: underline;
-    color: rgb(53, 143, 254);
+header nav a:hover {
+    color: #008cff;
+}
+
+header nav a:active {
+    color: #004f90;
+}
+
+#start a {
+    background-color: #0080e9;
+    padding: 8px;
+    border-radius: 1rem;
 }
